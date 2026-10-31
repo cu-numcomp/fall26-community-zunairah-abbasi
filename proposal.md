@@ -1,29 +1,28 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: SciPy
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+SciPy is an open source Python library for scientific and numerical computing. It provides tools for tasks such as integration, optimization, interpolation, and linear algebra. Its primary audience includes scientists, engineers, researchers, and students who need numerical methods for their work. For this project, I plan to focus on its interpolation tools, which estimate values between known data points.
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
+| Repository URL | 	https://github.com/scipy/scipy   |
+| Main/documentation website | 	https://docs.scipy.org/doc/scipy/   |
+| Year project was started | 2001  |
 | Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
 | Number of contributors in the lifetime of the project |   |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Where do development discussions take place? | GitHub issues and pull requests, and the SciPy development forum: https://discuss.scientific-python.org/c/contributor/scipy  |
 | Typical number of emails/comments per week? |   |
 | Typical number of commits per week? |  |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
+| How does the project accept contributions? | 	GitHub pull requests, reviewed by maintainers. New features are typically discussed on the development forum first.   |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Does the project have an AI contribution policy? | https://scipy.github.io/devdocs/dev/conduct/ai_policy.html |
 | Are any legal/licensing steps required to contribute? | no or explain below |
 
 ### Install and run
