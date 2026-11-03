@@ -12,13 +12,13 @@ SciPy is an open source Python library for scientific and numerical computing. I
 | Repository URL | 	https://github.com/scipy/scipy   |
 | Main/documentation website | 	https://docs.scipy.org/doc/scipy/   |
 | Year project was started | 2001  |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Number of contributors in the past year | 247 Git authors since November 1, 2025, measured October 31, 2026. |
+| Number of contributors in the lifetime of the project | 2,062 Git authors, measured October 31, 2026.  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | GitHub issues and pull requests, and the SciPy development forum: https://discuss.scientific-python.org/c/contributor/scipy  |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
+| Typical number of commits per week? | Approximately 30 commits per week, based on 120 commits during October 3–30, 2026. |
+| Typical commit size | Median of 2 files and 22 lines changed (insertions + deletions), based on 20 recent non-merge commits. |
 | How does the project accept contributions? | 	GitHub pull requests, reviewed by maintainers. New features are typically discussed on the development forum first.   |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
