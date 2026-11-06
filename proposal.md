@@ -1,9 +1,8 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
 ## Software: SciPy
 
-SciPy is an open source Python library for scientific and numerical computing. It provides tools for tasks such as integration, optimization, interpolation, and linear algebra. Its primary audience includes scientists, engineers, researchers, and students who need numerical methods for their work. For this project, I plan to focus on its interpolation tools, which estimate values between known data points.
+SciPy is an open source Python library for scientific and numerical computing. It provides tools for tasks such as integration, optimization, interpolation, and linear algebra. Its primary audience includes scientists, engineers, researchers, and students who need numerical methods for their work. For this project, I focus on its interpolation tools, which estimate values between known data points.
 
 ### Stats
 
